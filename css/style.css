@@ -1,0 +1,297 @@
+.container{
+	background-color: pink;
+	width: 1000px;
+	height: 800px;
+}
+.blue-box{
+	background-color: blue;
+	height:200px;
+	width: 400px;
+	float:left;
+}
+.blue-box-half{
+	width: 200px;
+	height: 200px;
+	float: left;
+}
+.yellow-box{
+	background-color: yellow;
+	width: 200px;
+	height: 200px;
+	float:left;
+}
+.yellow-black-box1{
+	background-color: black;
+	height: 50px;
+	width: 50px;
+}
+.yellow-black-box2{
+	background-color: black;
+	height: 50px;
+	width: 50px;
+	float:right;
+	margin-top:100px; 
+}
+.tan-box{
+	background-color: tan;
+	width:200px;
+	height:200px;
+	float:left;
+}
+.tan-black-box{
+	background-color: black;
+	width: 50px;
+	height: 50px;
+	margin-top: 75px;
+	margin-left: 75px;
+}
+.box{
+	width:200px;
+	height: 200px;
+	float:left;
+}
+.red-box{
+	background-color: red;
+	width: 100px;
+	height:200px;
+	float:left;
+}
+.teal-box{
+	background-color: teal;
+	width:100px;
+	height: 100px;
+	float:right;
+}
+.dark-grey-box{
+	background-color: black;
+	width:100px;
+	height: 100px;
+	float:right;
+}
+.sec1-sml-black-box{
+	width: 50px;
+	height: 50px;
+	background-color: black;
+	margin-top: 75px;
+	float:left;
+}
+.sec1-sml-black-box2{
+	width: 50px;
+	height: 50px;
+	background-color: black;
+	margin-top: 75px;
+	margin-left: 100px;
+	float:right;
+}
+
+.sec1-med-black-box{
+	background-color: black;
+	margin-top: 75px;
+	width: 100px;
+	height: 50px;
+	margin-left: 150px;
+}
+
+/*section 2 */
+.long-box{
+	width:600px;
+	height: 100px;
+	float:left;
+}
+.sml-red-box{
+	background-color: red;
+	height: 50px;
+	width:50px;
+	float:left;
+	margin-right:50px;
+}
+.lng-yellow-box{
+	background-color: yellow;
+	height: 50px;
+	width:200px;
+	float: left;
+}
+.lng-purple-box{
+	background-color: purple;
+	width: 400px;
+	height: 50px;
+	float:left;
+}
+.lng-orange-box{
+	background-color: orange;
+	width: 400px;
+	height: 50px;
+	float:left;
+}
+.lng-green-box{
+	background-color: green;
+	width: 200px;
+	height: 50px;
+	float: left;
+}
+.indigo-box{
+	background-color: indigo;
+	height: 100px;
+	width: 400px;
+	float: right;
+}
+
+.box, .box2
+{
+	background-color: green
+}
+.box2{
+	
+}
+
+
+
+/*section 3*/
+
+.sec3-left{
+	background-color: black;
+	width: 500px;
+	height: 400px;
+	float: left;
+}
+.giant-red-box{
+	background-color: red;
+	float:right;
+	width: 300px;
+	height: 400px;
+}
+.big-white-box{
+	position: absolute;
+	background-color: white;
+	width: 100px;
+	height: 100px;
+	margin-top: 150px;
+	margin-bottom: 150px;
+	margin-left: 100px;
+	margin-right: 100px;
+}
+.sml-white-box-top-left{
+	background-color: white;
+	width: 50px;
+	height: 50px;
+	float: left;
+}
+.sml-white-box-top-right{
+	background-color: white;
+	width: 50px;
+	height: 50px;
+	margin-left: 250px;
+}
+.sml-white-box-bottom-left{
+	background-color: white;
+	width: 50px;
+	height: 50px;
+	margin-top: 300px;
+	float: left;
+}
+.sml-white-box-bottom-right{
+	background-color: white;
+	width: 50px;
+	height: 50px;
+	margin-top: 300px;
+	margin-left: 200px;
+	float:left;
+}
+.giant-orange-box{
+	background: orange;
+	float:left;
+	width: 200px;
+	height: 200px;
+	margin-top:200px;
+}
+.sml-yellow-box{
+	background-color: yellow;
+	height: 100px;
+	width: 100px;
+	float: left;
+}
+.sml-grey-box{
+	background-color: grey;
+	height: 100px;
+	width: 100px;
+	float:right;
+	margin-top: 100px;
+}
+
+
+.sec3-right{
+	background-color: grey;
+	height:400px;
+	width: 500px;
+	float: right;
+}
+.lng-white-box{
+	background-color: white;
+	width: 300px;
+	height: 50px;
+	float:left;
+}
+.lrg-dark-grey-box2{
+	background-color: black;
+	width: 200px;
+	height: 200px;
+	float:right;
+}
+.sml-green-box{
+	background-color: green;
+	width: 50px;
+	height: 50px;
+	float:left;
+	margin-right: 50px;
+}
+.lng-green-box2{
+	background-color: green;
+	width: 300px;
+	height: 50px;
+	margin-top: 100px;
+}
+.lrg-teal-box{
+	background-color: teal;
+	width: 300px;
+	height: 200px;
+	margin-top: 50px
+}
+
+/*SECTION 4*/
+.sec4-left{
+	background-color: indigo;
+	width: 400px;
+	height: 100px;
+	float:left;
+}
+.sec4-right{
+	background-color: orange;
+	width: 600px;
+	height: 100px;
+	float:right;
+}
+.sec4-lng-purple-box{
+	background-color: purple;
+	width: 400px;
+	height: 50px;
+	float: left;
+}
+.sec4-lng-yellow-box{
+	background-color: yellow;
+	width: 200px;
+	height: 50px;
+	float:right;
+}
+.sec4-sml-red-box{
+	background-color: red;
+	width: 50px;
+	height: 50px;
+	margin-left: 50px;
+	float:right;
+}
+.sec4-lng-green-box{
+	background-color: green;
+	width: 200px;
+	height:50px;
+	margin-top: 50px;
+}
